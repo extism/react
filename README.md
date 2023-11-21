@@ -62,7 +62,13 @@ The `ExtismPlugin` component is currently the only React component exposed by th
 ```js
 import { ExtismPlugin } from '@extism/react'
 
-<ExtismPlugin source='https://location_of_extism_plugin.wasm' input={yourInput} functionName='some_function_name' />
+function MyComponent() {
+  return (
+    <div>
+      <ExtismPlugin source='https://location_of_extism_plugin.wasm' input={someInput} functionName='some_function_name' />
+    </div>
+  )
+}
 
 ```
 
