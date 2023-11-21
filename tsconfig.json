@@ -1,0 +1,22 @@
+{
+    "include": [
+        "./src/index.tsx",
+    ],
+    "compilerOptions": {
+        "allowJs": true,
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "outDir": "dist/types",
+        "outFile": "dist/types/index.d.ts",
+        "declarationMap": true,
+        "allowImportingTsExtensions": true,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "jsx": "react",
+        "target": "ESNext",
+        "lib": [
+            "DOM",
+            "ESNext",
+        ]
+    }
+}
