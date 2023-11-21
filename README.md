@@ -27,6 +27,7 @@ function MyFunctionalComponent() {
 }
 ```
 Check out the [source](https://github.com/extism/react/blob/f8f6c32f70c45dbe68484169debdf285e3fcd44d/src/index.tsx#L40-L59)
+
 Check out the [examples](https://github.com/extism/react/blob/main/example/src/App.js) for exact usage
 
 ### useFunction
@@ -49,6 +50,7 @@ function MyFunctionalComponent() {
 }
 ```
 Check out the [source](https://github.com/extism/react/blob/f8f6c32f70c45dbe68484169debdf285e3fcd44d/src/index.tsx#L61-L76)
+
 Check out the [examples](https://github.com/extism/react/blob/main/example/src/App.js) for exact usage
 
 ## Component
@@ -65,6 +67,7 @@ import { ExtismPlugin } from '@extism/react'
 ```
 
 Check out the [source](https://github.com/extism/react/blob/f8f6c32f70c45dbe68484169debdf285e3fcd44d/src/index.tsx#L104-L130)
+
 Check out the [examples](https://github.com/extism/react/blob/main/example/src/App.js) for exact usage
 
 # Examples
