@@ -8,4 +8,5 @@ esbuild.build({
     outdir: 'dist',
     platform: 'browser',
     format: 'esm',
+    external: ['react', 'react-dom']
 })
