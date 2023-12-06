@@ -2,6 +2,12 @@
 
 This repository contains hooks as well as a React component to make it easy for React developers to integrate [Extism](https://extism.org/) into their applications. The implementation of these utilities is based off of the [Universal JavaScript SDK](https://github.com/extism/js-sdk). In some cases, you may be better off using that.
 
+## Installation
+
+```sh
+npm install @extism/react
+```
+
 ## Hooks
 
 ### usePlugin
