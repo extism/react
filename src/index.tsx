@@ -20,7 +20,7 @@ export type UseFunctionReturn = {
  */
 export type UsePluginReturn = {
     /**
-     * Theh Extism plugin 
+     * The Extism plugin 
      */
     plugin: Plugin | null,
     /**
